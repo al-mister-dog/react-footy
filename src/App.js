@@ -1,11 +1,10 @@
-// import NewTable from './NewTable'
-import TableThree from './TableThree'
+import Table from './TableThree'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <TableThree />
+      <Table />
     </div>
   );
 }
